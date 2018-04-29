@@ -9,7 +9,7 @@ RUN apt-get update && \
          autotools-dev \
          autoconf \
          pkg-config \
-         libssl-dev 
+         libssl-dev \ 
          libboost-all-dev \
          libevent-dev \
          vim \
