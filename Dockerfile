@@ -12,6 +12,7 @@ RUN apt-get update && \
          libssl-dev \ 
          libboost-all-dev \
          libevent-dev \
+         bsdmainutils \
          vim \
          software-properties-common
 
